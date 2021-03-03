@@ -9,7 +9,7 @@ Projects are completed by members of the lab, often with collaborators.
 
 **Collaborators and former members**  
 
-* Mr Pink - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/profile)
+* Mr Blonde - [GitHub](https://github.com/username) / [Twitter](https://twitter.com/profile)
 
 ## Approach to working openly  
 Text goes her  
